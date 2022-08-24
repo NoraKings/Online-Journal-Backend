@@ -40,7 +40,9 @@ class Users extends Database {
     }
 
     public function Login(){
-
+        if($this->isset != null){
+            
+        }
     }
 
     public function Logout(){
